@@ -23,18 +23,26 @@ Zoom Clone that works on Android & iOS!
 18. See Your Meeting History
 19. Log out
 
-## YouTube
-I have created a tutorial based on this, do check it out on my channel [Rivaan Ranawat](https://youtu.be/sMA1dKbv33Y) 
+#Screenshot:
 
-<p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/flutter-zoom-clone/blob/master/screenshot.png" alt="Youtube Tutorial Image">
-</p>
+PHONE: 1
 
-## Tech Used
-**Server**: Firebase Auth, Firestore, Google Sign In, Jitsi Meet
-**Client**: Flutter
-    
-## Feedback
+1- ![1](https://user-images.githubusercontent.com/88116743/197459757-48d1a40d-ed20-4d98-b8c0-9a2454ba091d.PNG)
+2- ![2](https://user-images.githubusercontent.com/88116743/197459779-4a787029-cb4f-4818-a890-3a9c91439889.jpeg)
+3- ![3](https://user-images.githubusercontent.com/88116743/197459806-5094ec35-5cdc-47b3-bdfb-2c9105ed98e8.jpeg)
+4- ![4](https://user-images.githubusercontent.com/88116743/197459853-986913d9-135c-412e-b1a2-9c01cd1faaee.jpeg)
+5- ![5](https://user-images.githubusercontent.com/88116743/197459873-ff30c51c-f2ec-45b9-a993-da4b2a7217a7.jpeg)
+6- ![6](https://user-images.githubusercontent.com/88116743/197459900-fbb32591-170f-4233-b7ff-b152b0c2e709.jpeg)
+7- ![7](https://user-images.githubusercontent.com/88116743/197459929-2e92f28e-dfcc-4cce-a25a-b0def4135848.jpeg)
 
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
+PHONE: 2
+
+1- ![1](https://user-images.githubusercontent.com/88116743/197460035-4a9c78b8-43fa-40e5-8a2c-f4303bcf0735.PNG)
+2- ![2](https://user-images.githubusercontent.com/88116743/197460047-6141b9fe-d888-4e4d-8029-f1e431549c4a.jpeg)
+3- ![3](https://user-images.githubusercontent.com/88116743/197460062-aec33f65-fd59-40a4-97c7-aa2c531bb5d7.jpeg)
+4- ![4](https://user-images.githubusercontent.com/88116743/197460084-b81c4f81-430d-4e19-a187-5fe6903a8978.jpeg)
+5- ![5](https://user-images.githubusercontent.com/88116743/197460105-143c612b-78ee-4af4-b827-53f9db2e411e.jpeg)
+6- ![6](https://user-images.githubusercontent.com/88116743/197460128-664293f3-667c-4706-836a-e3ccfb881e0f.jpeg)
+7- ![7](https://user-images.githubusercontent.com/88116743/197460151-4638d7fd-aa82-4d66-94c6-da02b2e2be60.jpeg)
+
 
